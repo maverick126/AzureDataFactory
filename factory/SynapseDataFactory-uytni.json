@@ -1,0 +1,9 @@
+{
+	"name": "SynapseDataFactory-uytni",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4cb6f1e-057a-4b0c-a49b-f9fe5b5dbda3",
+		"tenantId": "2475e55d-c993-4688-9703-e15c12b2c759"
+	}
+}
